@@ -14,7 +14,7 @@ Link: https://drive.google.com/drive/folders/1BTFBoe5vYKW4LYZaFOvIm--GRmN_UXv_?u
 
 ### Windows 11 Pro 22H2 Build 22621.1485 (No TPM Required) Preactivated Multilingual (x64)
 
--El código de extracción (si lo hay) es sbz.
+-El código de extracción (si lo hay) es: sbz
 
 Link: https://drive.google.com/file/d/1V1JXC-z4XhNEMF3lQTfACBql73Fszvsi/view?usp=sharing
 
