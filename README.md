@@ -11,10 +11,6 @@ Link: https://drive.google.com/drive/folders/1A2BgalrBRQbvgOGM_o3_hN6lfGCwl9S8?u
 
 ## Windows 7
 
-### Windows 7 SP1 X64 Ultimate 3in1 OEM MULTi-5 MARCH 2023 {Gen2}
+### Windows 7 SP1 X64 Ultimate 3in1 OEM MULTi-5 AUG 2023 {Gen2}
 
-Link: https://drive.google.com/drive/folders/1--FWzB04KqB_KiWGddFWhDQwi_FGaKma?usp=sharing
-
-### Windows 7 SP1 X64 11in1 OEM ESD es-ES MARCH 2023 {Gen2}
-
-Link: https://drive.google.com/drive/folders/1BTFBoe5vYKW4LYZaFOvIm--GRmN_UXv_?usp=sharing
+Link: https://drive.google.com/drive/folders/1-FbM5yag3oXqwd3oqvzv31WqXuTUdjbb?usp=sharing
