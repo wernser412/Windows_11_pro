@@ -2,10 +2,9 @@
 
 Link: https://colab.research.google.com/drive/17TY-1J7XhcwWul4nfZ4X5dBnbNXgOjvL?usp=sharing
 
-## Windows 11
+## Windows 11 Pro FINAL 22H3 v22631.3007 x64 (4,96 GB)
 
-### 22631.3007.240102-1451.23H2_NI_RELEASE_SVC_PROD1_CLIENTPRO_OEMRET_X64FRE_ES-ES
-Idioma: Español
+Idioma: Español (Es-es)
 
 Edición: 22631.3007
 
