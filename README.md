@@ -1,10 +1,10 @@
-## Windows 11 Pro FINAL 22H3 v22631.3007 x64 (4,96 GB)
+## Windows 11 Pro 23H2 v22631.3085 x64 (6,84 GB)
 
 Idioma: Español (Es-es)
 
-Edición: 22631.3007
+Edición: 22631.3085
 
-Link: https://drive.google.com/file/d/1ILjMXtSJgOMA3u0UuT3ainNsE6_rNqaE/view?usp=sharing
+Link: https://drive.google.com/file/d/1B-AJcvvtZuJNLlDZwXroIdQK0nNzNuN5/view?usp=sharing
 
 
 ## Windows 7 SP1 X64 Ultimate 3in1 OEM MULTi-5 AUG 2023 {Gen2}
