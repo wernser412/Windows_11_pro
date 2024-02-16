@@ -2,9 +2,9 @@
 
 Idioma: Español (Es-es)
 
-Edición: 22631.3085
+Edición: 22631.3155
 
-Link: https://drive.google.com/file/d/1hY8JIwxcN9-P0eQli74Uj0k4Hp1fN4Q-/view?usp=drive_link
+Link: https://drive.google.com/file/d/16libl0OnQQoBL7lk18JHHUOouphyEEqp/view?usp=sharing
 
 
 ## Windows 7 SP1 X64 Ultimate 3in1 OEM MULTi-5 AUG 2023 {Gen2}
