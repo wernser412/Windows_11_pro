@@ -1,10 +1,10 @@
-## Windows 11 Pro 23H2 v22631.3527 x64 (6,22 GB)
+## Windows 11 Pro 23H2 v22631.3593 x64 (5,93 GB)
 
 Idioma: Español (Es-es)
 
-Edición: 22631.3527
+Edición: 22631.3593
 
-Link: https://drive.google.com/file/d/1OjtbyUYPdmZF8lideLelpT1A5gHm1NEv/view?usp=sharing
+Link: https://drive.google.com/file/d/1l68-lH6nKcop-v1uvqXXdP0C9H9t-Mno/view?usp=sharing
 
 
 ## Windows 7 SP1 X64 Ultimate 3in1 OEM MULTi-5 AUG 2023 {Gen2}
