@@ -1,4 +1,4 @@
-## Windows 11 Pro 23H2 v22631.3672 x64 (5,93 GB)
+## Windows 11 Pro 23H2 v22631.3672 x64 (7,2 GB)
 
 Idioma: Español (Es-es)
 
