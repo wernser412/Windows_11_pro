@@ -4,6 +4,9 @@ Idioma: Español (Es-es)
 
 Edición: 22631.3672
 
+- Incluye las actualizaciones
+- Incluye .NET Framework 3.5
+
 Link:
 https://drive.google.com/file/d/1uMb2JPO79j-ghgdZT_GOq1TLV_pJVrkr/view?usp=sharing
 
