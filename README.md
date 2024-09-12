@@ -1,4 +1,4 @@
-### 1) Windows 11 Pro 23H2 v22631.4169 x64 (5,97 GB) (Install Wim)
+### 1) Windows 11 Pro 23H2 v22631.4169 x64 (7,27 GB) (Install Wim)
 
 **Última Actualización:** 11 de septiembre de 2024
 
