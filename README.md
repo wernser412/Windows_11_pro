@@ -7,6 +7,7 @@ Idioma: Español (Es-es)
 Link:
 https://drive.google.com/file/d/1Dy1odLpXcFy25vHSbAJHmCNZIxnL98DW/view?usp=sharing
 
+<img src="win11.png" alt="Logo de mi proyecto" width="300" />
 
 ### 2) Windows 7 ultimate update octubre (4,17 GB) (Install Wim)
 
