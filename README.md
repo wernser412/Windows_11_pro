@@ -17,6 +17,7 @@ Idioma: Español (Es-es)
 Link:
 https://drive.google.com/file/d/1Ht20lAg-9NbBkLhoUlRJ5lNHezK68jdZ/view?usp=sharing
 
+<img src="win7.png" alt="Logo de mi proyecto" width="300" />
 
 ### 3) Torrent to google drive v3 (fix) 14-01-2024
 
