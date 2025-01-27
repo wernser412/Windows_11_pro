@@ -1,4 +1,4 @@
-### 1) Windows 11 Pro 24H2 v26100.2605 x64 (5.93 GB)
+### 1) Windows 11 Pro 24H2 v26100.2605 x64 (5.94 GB)
 
 Idioma: Español (Es-es)
 
@@ -13,12 +13,12 @@ Idioma: Español (Es-es)
 — Los sistemas no estaban en modo auditoría.
 
 Link:
-https://mega.nz/file/Ac1mUD6a#TIAHTLMbC7uXsxRcTNZDhu98ONGtG7ogd9wAuI2BQOI
+https://mega.nz/file/RA1wQQ7D#qgTCWQhiGiGRfkAikuHNQHpgbuJIIRu7LB_Y5R8dGUc
 
 <img src="win11.png" alt="Logo de mi proyecto" width="300" />
 
 
-### 2) Windows 11 Pro 23H2 v22631.4602 x64 (6.59 GB)
+### 2) Windows 11 Pro 23H2 v22631.4751 x64 (6.6 GB)
 
 Idioma: Español (Es-es)
 
@@ -33,12 +33,12 @@ Idioma: Español (Es-es)
 — Los sistemas no estaban en modo auditoría.
 
 Link:
-https://mega.nz/file/xREWFKDC#eCh4QlytEC0peujsfOfd3sH1meM5Mkvp7urHNW_Fal8
+https://mega.nz/file/RB9zAZBJ#_i2MjX2NfDGbwBlIkwz0EZq97nJEvI6qrzOijyFkx1E
 
 <img src="win11.png" alt="Logo de mi proyecto" width="300" />
 
 
-### 3) Windows 8.1 update 9600.22318 (6,15 GB)
+### 3) Windows 8.1 update 9600.22371 (6,1 GB)
 
 Idioma: Español (Es-es)
 
@@ -51,12 +51,12 @@ Idioma: Español (Es-es)
 — Los sistemas no estaban en modo auditoría
 
 Link:
-https://mega.nz/file/1V0VgDxb#TEwB-o8Ib2hlpsRfI3qQbVz-enlSxvfP-hC2IF6ORTI
+https://mega.nz/file/sZs0mBKa#JX827xOfk5S8iz0lu2g28a6ae2RjNemTNJxvN-puXmk
 
 <img src="win11.png" alt="Logo de mi proyecto" width="300" />
 
 
-### 4) Windows 7 ultimate update 7601.27467 (4,64 GB)
+### 4) Windows 7 ultimate update 7601.27520 (4,65 GB)
 
 Idioma: Español (Es-es)
 
@@ -65,7 +65,7 @@ Idioma: Español (Es-es)
 — Los sistemas no estaban en modo auditoría.
 
 Link:
-https://mega.nz/file/EZ110YrC#0B8RcoY0CR9XF0HBSF0crCxxXPXJ55q9y1cw88nV-es
+https://mega.nz/file/dZFETTQL#242JdsjS0nVIZD8MeldIbn7235WppXMf2f4Yo5wUaT8
 
 <img src="win7.png" alt="Logo de mi proyecto" width="300" />
 
