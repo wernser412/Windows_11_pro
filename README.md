@@ -17,63 +17,75 @@
     - **Memoria RAM**
 
 ### Descarga del archivo ISO:
-[Descargar Windows 11 Build 22631.5192](https://t.me/+fqF2-7edU9w5OWNh)
+[Descargar](https://t.me/+fqF2-7edU9w5OWNh)
 
 ---
 
 ## Versiones Adicionales:
 
-### 1) Windows 11 Pro 24H2 v26100.2605 x64 (5.94 GB)
+### 1) Windows 11 Pro 24H2 Update 26100.3775 x64 (5.94 GB)
 - **Idioma**: Español (Es-Es)
-- **Actualizaciones integradas** hasta el 12 de noviembre de 2024
+- **Actualizaciones integradas** hasta el 8 de abril de 2025
 - **.NET Framework 3.5** incluido (con soporte para 2.0 y 3.0)
 - **BitLocker** automático deshabilitado
 - **Verificación deshabilitada** durante la instalación (TPM, arranque de seguridad, CPU, almacenamiento, y memoria RAM)
 - **Modo Auditoría** no habilitado
 
-**[Descargar desde Mega](https://mega.nz/file/RA1wQQ7D#qgTCWQhiGiGRfkAikuHNQHpgbuJIIRu7LB_Y5R8dGUc)**
-
-![Windows 11](win11.png)
+**[Descargar](https://t.me/+fqF2-7edU9w5OWNh)**
 
 ---
 
-### 2) Windows 11 Pro 23H2 v22631.4751 x64 (6.6 GB)
+### 2) Windows 11 Pro 23H2 Update 22631.5189 x64 (6.6 GB)
 - **Idioma**: Español (Es-Es)
-- **Actualizaciones integradas** hasta el 12 de noviembre de 2024
+- **Actualizaciones integradas** hasta el 8 de abril de 2025
 - **.NET Framework 3.5** incluido (con soporte para 2.0 y 3.0)
 - **BitLocker** automático deshabilitado
 - **Verificación deshabilitada** durante la instalación (TPM, arranque de seguridad, CPU, almacenamiento, y memoria RAM)
 - **Modo Auditoría** no habilitado
 
-**[Descargar desde Mega](https://mega.nz/file/RB9zAZBJ#_i2MjX2NfDGbwBlIkwz0EZq97nJEvI6qrzOijyFkx1E)**
-
-![Windows 11](win11.png)
+**[Descargar](https://t.me/+fqF2-7edU9w5OWNh)**
 
 ---
 
-### 3) Windows 8.1 Update 9600.22371 (6.1 GB)
+### 3) Windows 8.1 Update 9600.22523 x64 (6.1 GB)
 - **Idioma**: Español (Es-Es)
-- **Actualizaciones integradas** hasta el 12 de noviembre de 2024
+- **Actualizaciones integradas** hasta el 8 de abril de 2025
 - **.NET Framework 4.8** integrado
 - **.NET Framework 3.5** incluido (con soporte para 2.0 y 3.0)
 - **Modo Auditoría** no habilitado
 
-**[Descargar desde Mega](https://mega.nz/file/sZs0mBKa#JX827xOfk5S8iz0lu2g28a6ae2RjNemTNJxvN-puXmk)**
+**[Descargar](https://t.me/+fqF2-7edU9w5OWNh)**
 
 ---
 
-### 4) Windows 7 Ultimate Update 7601.27520 (4.65 GB)
+### 4) Windows 7 Ultimate Update 7601.27670 x64 (4.65 GB)
 - **Idioma**: Español (Es-Es)
-- **Actualizaciones integradas** hasta el 12 de noviembre de 2024
+- **Actualizaciones integradas** hasta el 8 de abril de 2025
 - **Modo Auditoría** no habilitado
 
-**[Descargar desde Mega](https://mega.nz/file/dZFETTQL#242JdsjS0nVIZD8MeldIbn7235WppXMf2f4Yo5wUaT8)**
-
-![Windows 7](win7.png)
+**[Descargar](https://t.me/+fqF2-7edU9w5OWNh)**
 
 ---
 
-### 5) Torrent to Google Drive v3 (Fix) 14-01-2024
+### 5) Windows XP SP3 Update 2600.7682 x64 (4.65 GB)
+- **Idioma**: Español (Es-Es)
+- **Actualizaciones integradas** hasta el 8 de abril de 2025
+- **Modo Auditoría** no habilitado
+
+**[Descargar](https://t.me/+fqF2-7edU9w5OWNh)**
+
+---
+
+### 6) Windows Vista SP2 Update 6003.23217 x64 (4.65 GB)
+- **Idioma**: Español (Es-Es)
+- **Actualizaciones integradas** hasta el 8 de abril de 2025
+- **Modo Auditoría** no habilitado
+
+**[Descargar](https://t.me/+fqF2-7edU9w5OWNh)**
+
+---
+
+### 6) Torrent to Google Drive v3 (Fix) 14-01-2024
 **[Acceder al archivo](https://colab.research.google.com/drive/17TY-1J7XhcwWul4nfZ4X5dBnbNXgOjvL?usp=sharing)**
 
 ---
