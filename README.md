@@ -23,7 +23,7 @@
 
 ## Versiones Adicionales:
 
-### 1) Windows 11 Pro 24H2 Update 26100.3775 x64 (5.94 GB)
+### 1) Windows 11 Pro 24H2 Update 26100.3775 x64 (6.41 GB)
 - **Idioma**: Español (Es-Es)
 - **Actualizaciones integradas** hasta el 8 de abril de 2025
 - **.NET Framework 3.5** incluido (con soporte para 2.0 y 3.0)
@@ -35,7 +35,7 @@
 
 ---
 
-### 2) Windows 11 Pro 23H2 Update 22631.5189 x64 (6.6 GB)
+### 2) Windows 11 Pro 23H2 Update 22631.5189 x64 (6.69 GB)
 - **Idioma**: Español (Es-Es)
 - **Actualizaciones integradas** hasta el 8 de abril de 2025
 - **.NET Framework 3.5** incluido (con soporte para 2.0 y 3.0)
@@ -67,7 +67,7 @@
 
 ---
 
-### 5) Windows XP SP3 Update 2600.7682 x64 (4.65 GB)
+### 5) Windows XP SP3 Update 2600.7682 x64 (1.34 GB)
 - **Idioma**: Español (Es-Es)
 - **Actualizaciones integradas** hasta el 8 de abril de 2025
 - **Modo Auditoría** no habilitado
@@ -76,7 +76,7 @@
 
 ---
 
-### 6) Windows Vista SP2 Update 6003.23217 x64 (4.65 GB)
+### 6) Windows Vista SP2 Update 6003.23217 x64 (5.7 GB)
 - **Idioma**: Español (Es-Es)
 - **Actualizaciones integradas** hasta el 8 de abril de 2025
 - **Modo Auditoría** no habilitado
