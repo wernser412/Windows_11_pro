@@ -3,9 +3,9 @@
 ![Windows 11](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Windows_11_logo.svg/960px-Windows_11_logo.svg.png)
 
 ### Detalles de la versión:
-- **Build**: 22631.5192
+- **Build**: 22631.5262
 - **Idioma**: Español (Es-Es)
-- **Actualizaciones integradas** hasta el 11 de abril de 2025
+- **Actualizaciones integradas** hasta el 22 de abril de 2025
 - **.NET Framework 3.5** incluido (con soporte para 2.0 y 3.0)
 
 ### Instrucciones para crear un USB de arranque:
