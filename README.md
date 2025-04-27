@@ -1,4 +1,4 @@
-# 🆕🆕 **Nuevo: Windows 11 Build 22631.5192** 🆕🆕
+# 🆕🆕 **Nuevo: Windows 11 Build 22631.5262** 🆕🆕
 
 ![Windows 11](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Windows_11_logo.svg/960px-Windows_11_logo.svg.png)
 
