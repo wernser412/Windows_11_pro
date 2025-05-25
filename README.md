@@ -23,9 +23,9 @@
 
 ## Versiones Adicionales:
 
-### 1) Windows 11 Pro 24H2 Update 26100.3775 x64 (6.41 GB)
+### 1) Windows 11 Pro 24H2 Update 26100.3775 x64 (6.6 GB)
 - **Idioma**: Español (Es-Es)
-- **Actualizaciones integradas** hasta el 8 de abril de 2025
+- **Actualizaciones integradas** hasta el 15 de mayo de 2025
 - **.NET Framework 3.5** incluido (con soporte para 2.0 y 3.0)
 - **BitLocker** automático deshabilitado
 - **Verificación deshabilitada** durante la instalación (TPM, arranque de seguridad, CPU, almacenamiento, y memoria RAM)
@@ -35,9 +35,9 @@
 
 ---
 
-### 2) Windows 11 Pro 23H2 Update 22631.5189 x64 (6.69 GB)
+### 2) Windows 11 Pro 23H2 Update 22631.5335 x64 (6.9 GB)
 - **Idioma**: Español (Es-Es)
-- **Actualizaciones integradas** hasta el 8 de abril de 2025
+- **Actualizaciones integradas** hasta el 15 de mayo de 2025
 - **.NET Framework 3.5** incluido (con soporte para 2.0 y 3.0)
 - **BitLocker** automático deshabilitado
 - **Verificación deshabilitada** durante la instalación (TPM, arranque de seguridad, CPU, almacenamiento, y memoria RAM)
@@ -47,9 +47,9 @@
 
 ---
 
-### 3) Windows 8.1 Update 9600.22523 x64 (6.1 GB)
+### 3) Windows 8.1 Update 9600.22577 x64 (6.1 GB)
 - **Idioma**: Español (Es-Es)
-- **Actualizaciones integradas** hasta el 8 de abril de 2025
+- **Actualizaciones integradas** hasta el 15 de mayo de 2025
 - **.NET Framework 4.8** integrado
 - **.NET Framework 3.5** incluido (con soporte para 2.0 y 3.0)
 - **Modo Auditoría** no habilitado
@@ -58,9 +58,9 @@
 
 ---
 
-### 4) Windows 7 Ultimate Update 7601.27670 x64 (4.65 GB)
+### 4) Windows 7 Ultimate Update 7601.27729 x64 (4.64 GB)
 - **Idioma**: Español (Es-Es)
-- **Actualizaciones integradas** hasta el 8 de abril de 2025
+- **Actualizaciones integradas** hasta el 15 de mayo de 2025
 - **Modo Auditoría** no habilitado
 
 **[Descargar](https://t.me/+fqF2-7edU9w5OWNh)**
