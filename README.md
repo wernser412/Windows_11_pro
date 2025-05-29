@@ -1,11 +1,11 @@
-# 🆕🆕 **Nuevo: Windows 11 Build 22631.5335** 🆕🆕
+# 🆕🆕 **Nuevo: Windows 11 Build 22631.5413 (x64) (6.47 GB)** 🆕🆕
 
 ![Windows 11](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Windows_11_logo.svg/960px-Windows_11_logo.svg.png)
 
 ### Detalles de la versión:
 - **Build**: 22631.5335
 - **Idioma**: Español (Es-Es)
-- **Actualizaciones integradas** hasta el 15 de mayo de 2025
+- **Actualizaciones integradas** hasta el 28 de mayo de 2025
 - **.NET Framework 3.5** incluido (con soporte para 2.0 y 3.0)
 
 ### Instrucciones para crear un USB de arranque:
@@ -23,9 +23,9 @@
 
 ## Versiones Adicionales:
 
-### 1) Windows 11 Pro 24H2 Update 26100.3775 x64 (6.6 GB)
+### 1) AIO Windows 11 Pro 24H2 Update 26100.3775 (x64) (6.6 GB)
 - **Idioma**: Español (Es-Es)
-- **Actualizaciones integradas** hasta el 15 de mayo de 2025
+- **Actualizaciones integradas** hasta el 13 de mayo de 2025
 - **.NET Framework 3.5** incluido (con soporte para 2.0 y 3.0)
 - **BitLocker** automático deshabilitado
 - **Verificación deshabilitada** durante la instalación (TPM, arranque de seguridad, CPU, almacenamiento, y memoria RAM)
@@ -35,9 +35,9 @@
 
 ---
 
-### 2) Windows 11 Pro 23H2 Update 22631.5335 x64 (6.9 GB)
+### 2) AIO Windows 11 Pro 23H2 Update 22631.5335 (x64) (6.9 GB)
 - **Idioma**: Español (Es-Es)
-- **Actualizaciones integradas** hasta el 15 de mayo de 2025
+- **Actualizaciones integradas** hasta el 13 de mayo de 2025
 - **.NET Framework 3.5** incluido (con soporte para 2.0 y 3.0)
 - **BitLocker** automático deshabilitado
 - **Verificación deshabilitada** durante la instalación (TPM, arranque de seguridad, CPU, almacenamiento, y memoria RAM)
@@ -47,9 +47,9 @@
 
 ---
 
-### 3) Windows 8.1 Update 9600.22577 x64 (6.1 GB)
+### 3) AIO Windows 8.1 Update 9600.22577 (x64) (6.1 GB)
 - **Idioma**: Español (Es-Es)
-- **Actualizaciones integradas** hasta el 15 de mayo de 2025
+- **Actualizaciones integradas** hasta el 13 de mayo de 2025;
 - **.NET Framework 4.8** integrado
 - **.NET Framework 3.5** incluido (con soporte para 2.0 y 3.0)
 - **Modo Auditoría** no habilitado
@@ -58,25 +58,25 @@
 
 ---
 
-### 4) Windows 7 Ultimate Update 7601.27729 x64 (4.64 GB)
+### 4) AIO Windows 7 Ultimate Update 7601.27729 (x86-x64) (4.64 GB)
 - **Idioma**: Español (Es-Es)
-- **Actualizaciones integradas** hasta el 15 de mayo de 2025
+- **Actualizaciones integradas** hasta el 13 de mayo de 2025
 - **Modo Auditoría** no habilitado
 
 **[Descargar](https://t.me/+fqF2-7edU9w5OWNh)**
 
 ---
 
-### 5) Windows XP SP3 Update 2600.7682 x64 (1.34 GB)
+### 5) AIO Windows XP SP3 Update 2600.7682 (x86) (1.34 GB)
 - **Idioma**: Español (Es-Es)
-- **Actualizaciones integradas** hasta el 8 de abril de 2025
+- **Actualizaciones integradas** hasta el 9 de abril de 2019
 - **Modo Auditoría** no habilitado
 
 **[Descargar](https://t.me/+fqF2-7edU9w5OWNh)**
 
 ---
 
-### 6) Windows Vista SP2 Update 6003.23217 x64 (5.7 GB)
+### 6) AIO Windows Vista SP2 Update 6003.23217 (x64) (5.7 GB)
 - **Idioma**: Español (Es-Es)
 - **Actualizaciones integradas** hasta el 8 de abril de 2025
 - **Modo Auditoría** no habilitado
